@@ -1,0 +1,27 @@
+{
+    "name": "照片瀏覽器",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.55",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
